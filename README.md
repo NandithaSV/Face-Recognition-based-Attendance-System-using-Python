@@ -1,4 +1,4 @@
-# Face-Recognition-with-Attendace
+# Face-Recognition-with-Attendance
 
 **PREREQUISITE**
 Need to be download these Modules 
@@ -20,39 +20,3 @@ Need to be download these Modules
 ---
 
 **NOTE :** Person's name display in webcam ,be the saved file name of a image under images folder.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
