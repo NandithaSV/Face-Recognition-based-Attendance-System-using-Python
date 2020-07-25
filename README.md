@@ -1,4 +1,4 @@
-# Face-Recognition-with-Attendance
+# Face-Recognition-based-Attendance-System-using-Python
 
 **PREREQUISITE**
 Need to be download these Modules 
